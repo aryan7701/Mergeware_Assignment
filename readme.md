@@ -53,5 +53,5 @@ Starting the meteor app
 
 note - mongoDB is inbuilt , to access  add  url 'mongodb://127.0.0.1:3001/meteor' in mongoDb compass
 
-Yay! now you are all set ! 👍 .
+Yay! now you are all set ! Lets Go👍 .
 
